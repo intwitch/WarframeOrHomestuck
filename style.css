@@ -1,0 +1,16 @@
+h1, h2, button, p {
+    align-items: center;
+    text-align: center;
+}
+
+button {
+    height: 90px;
+    width: 250px;
+    margin: 50px;
+}
+
+#Answers, #SkipNext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
